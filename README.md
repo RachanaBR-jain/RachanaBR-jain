@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RachanaBR-jain
 - 👀 I’m interested in Java backend development Projects 
-- 🌱 I’m currently learning Spring and AWS Cloud
+- 🌱 I’m currently learning Spring, JSP  and AWS Cloud
 - 💞️ I’m looking to collaborate on Learing new Technology
 - 📫 How to reach me br19rachanajain@gmail.com
 
